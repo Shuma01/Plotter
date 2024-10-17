@@ -1,0 +1,10 @@
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\bin\Debug\Plotter.exe.config
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\bin\Debug\Plotter.exe
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\bin\Debug\Plotter.pdb
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\obj\Debug\Plotter.csproj.AssemblyReference.cache
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\obj\Debug\Plotter.Form1.resources
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\obj\Debug\Plotter.Properties.Resources.resources
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\obj\Debug\Plotter.csproj.GenerateResource.cache
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\obj\Debug\Plotter.csproj.CoreCompileInputs.cache
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\obj\Debug\Plotter.exe
+C:\Users\81902\OneDrive\デスクトップ\ゼミ\ソースコード\Plotter\Plotter\obj\Debug\Plotter.pdb
